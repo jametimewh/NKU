@@ -1,0 +1,34 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Oct 16 18:32:40 2024
+# Process ID: 10180
+# Current directory: C:/Users/86139/Desktop/课程/计算机组成原理实验报告/实验二定点乘法/2_multiply
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4300 C:\Users\86139\Desktop\课程\计算机组成原理实验报告\实验二定点乘法\2_multiply\lcd_module.dcp
+# Log file: C:/Users/86139/Desktop/课程/计算机组成原理实验报告/实验二定点乘法/2_multiply/vivado.log
+# Journal file: C:/Users/86139/Desktop/课程/计算机组成原理实验报告/实验二定点乘法/2_multiply\vivado.jou
+#-----------------------------------------------------------
+start_guioopen_checkpoint C:/Users/86139/Desktop/课程/计算机组成原理实验报告/实验二定点乘法/2_multiply/lcd_module.dcp
+Command: open_checkpoint C:/Users/86139/Desktop/课程/计算机组成原理实验报告/实验二定点乘法/2_multiply/lcd_module.dcp
+
+Starting open_checkpoint Task
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.031 . Memory (MB): peak = 625.215 ; gain = 0.000
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/vivado_/Vivado/2018.3/data/ip'.IINFO: [Netlist 29-17] Analyzing 17 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2015.2
+INFO: [Device 21-403] Loading part xc7a200tfbg676-2
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1025.730 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 2 instances were transformed.
+  IOBUF => IOBUF (IBUF, OBUFT): 2 instances
+
+INFO: [Project 1-604] Checkpoint was created with  build 1266856
+open_checkpoint: Time (s): cpu = 00:00:14 ; elapsed = 00:00:14 . Memory (MB): peak = 1232.695 ; gain = 607.480eexit
+INFO: [Common 17-206] Exiting Vivado at Wed Oct 16 18:33:39 2024...
+..

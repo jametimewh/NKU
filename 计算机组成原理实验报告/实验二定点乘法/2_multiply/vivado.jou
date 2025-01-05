@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Oct 16 18:32:40 2024
+# Process ID: 10180
+# Current directory: C:/Users/86139/Desktop/课程/计算机组成原理实验报告/实验二定点乘法/2_multiply
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4300 C:\Users\86139\Desktop\课程\计算机组成原理实验报告\实验二定点乘法\2_multiply\lcd_module.dcp
+# Log file: C:/Users/86139/Desktop/课程/计算机组成原理实验报告/实验二定点乘法/2_multiply/vivado.log
+# Journal file: C:/Users/86139/Desktop/课程/计算机组成原理实验报告/实验二定点乘法/2_multiply\vivado.jou
+#-----------------------------------------------------------
+start_guioopen_checkpoint C:/Users/86139/Desktop/课程/计算机组成原理实验报告/实验二定点乘法/2_multiply/lcd_module.dcp

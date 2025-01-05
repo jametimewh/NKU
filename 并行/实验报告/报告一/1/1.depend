@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1729687115 source:e:\gcc_project\1\main.cpp
+	<iostream>
+	<stdio.h>
+	<pmmintrin.h>
+	<immintrin.h>
+	<xmmintrin.h>
+	<stdlib.h>
+	<algorithm>
+	<windows.h>
+	<cstdlib>
+	<chrono>
+

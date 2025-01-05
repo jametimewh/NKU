@@ -1,0 +1,19 @@
+cd ..
+cd code
+cd ..
+cd 
+ls
+cd compiler
+ls
+cd 8cc
+cd
+cd .
+cd			..
+cd				    wei
+date;ls -l;
+date;cd code;
+ls -l;date
+date;ls -l;cd ..
+cd ...
+ls-l
+cd wdwiji

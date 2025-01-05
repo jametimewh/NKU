@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731223162 source:e:\gcc_project\barrier3\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+

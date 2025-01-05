@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1730202526 source:e:\gcc_project\gaosi\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<immintrin.h>
+
